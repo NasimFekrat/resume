@@ -5,7 +5,7 @@ This repository hosts the up-to-date PDF version of my resume.
 ## 📄 Resume
 
 - **View online:** [https://nasimfekrat.github.io/resume/](https://nasimfekrat.github.io/resume/)  
-- **Download PDF:** [nasiFekratResume.pdf](./nasiFekratResume.pdf)
+- **Download PDF:** [resume.pdf](./nasimFekratResume.pdf)
 
 ## 📱 Quick Access
 
